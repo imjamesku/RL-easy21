@@ -3,19 +3,19 @@
 ## Monte-Carlo Control in Easy21
 Algorithm:
 
-![](/home/james/git-repos/easy21/figs/MC.png)
+![](https://github.com/imjamesku/RL-easy21/blob/master/figs/MC.png?raw=true)
 
 1 million episodes of the game has been evaluated to obtain the following value function:
-![](/home/james/git-repos/easy21/figs/MC_1e6.png)
+![](https://github.com/imjamesku/RL-easy21/blob/master/figs/MC_1e6.png?raw=true)
 
 ## TD Learning
 
-![](/home/james/git-repos/easy21/figs/Sarsa_lambda.png)
+![](https://github.com/imjamesku/RL-easy21/blob/master/figs/Sarsa_lambda.png?raw=true)
 
 MSE of the state-action function from Monte-Carlo with different lambdas. For each lambda, 10000 episodes have been evaluated.
 
-![](/home/james/git-repos/easy21/figs/MSE_lambda.png)
+![](https://github.com/imjamesku/RL-easy21/blob/master/figs/MSE_lambda.png?raw=true)
 
 MSE iteration with different lambdas.
 
-![](/home/james/git-repos/easy21/figs/MSE_episode.png)
+![](https://github.com/imjamesku/RL-easy21/blob/master/figs/MSE_episode.png?raw=true)
