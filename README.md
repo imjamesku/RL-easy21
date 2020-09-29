@@ -53,7 +53,7 @@ What are the pros and cons of function approximation in Easy21?
   - converges relatively fast
   - can approximate value of unvisited states
 - cons
-  - 
+  - significantly greater MSE compared to TD and MC
 
 How would you modify the function approximator suggested in this section
 to get better results in Easy21?
